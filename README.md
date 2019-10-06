@@ -49,7 +49,7 @@ Organize files into a more consistent structure. Group images into a `images/` d
 
 Commit changes and publish to your public GitHub repository. Locate the URL of this commit by clicking on "commits" from your project page on GitHub, which should be similar in format to: https://github.com/fredhutchio/tfcb_2019/commit/16b5235bd2d908c96f22297813e6aaf9f172ad41
 
-_[Reorganized project](https://github.com/LABrumage/tfcb-homework01/commit/e47606b9f8a9cfc6f3bcf2fa78e7d00571542add)_
+_[https://github.com/LABrumage/tfcb-homework01/commit/e47606b9f8a9cfc6f3bcf2fa78e7d00571542add](https://github.com/LABrumage/tfcb-homework01/commit/e47606b9f8a9cfc6f3bcf2fa78e7d00571542add)_
 
 ## Problem 4
 
