@@ -75,4 +75,4 @@ Export this as a tab-delimited `.tsv` text file with Unix line endings.
 
 Commit the modified `.xlsx` file and the `.tsv` file and publish to your public GitHub repository.
 
-_Include the link to your `.tsv` file on GitHub here._
+_[https://github.com/LABrumage/tfcb-homework01/blob/master/data/2013-2014_survey-data.tsv.xlsx](https://github.com/LABrumage/tfcb-homework01/blob/master/data/2013-2014_survey-data.tsv.xlsx)_
